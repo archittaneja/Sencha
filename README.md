@@ -1,0 +1,3 @@
+Sencha
+======
+Simple SENCHA application 
